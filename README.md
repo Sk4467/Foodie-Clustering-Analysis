@@ -24,7 +24,17 @@ The goal of the NLPFoodieClustering project is to find competitive stores or res
 
 7. **Outlier Identification**: Based on the price categorization, we detect food items or restaurants with prices significantly higher or lower than their cluster's average. These outliers may indicate potential areas for price adjustment or investigation of competitive pricing strategies.
 
+## Requirements
 
+Before running the project, ensure you have the following dependencies installed:
+
+- Python (>= 3.6)
+- NumPy
+- Pandas
+- NLTK
+- Gensim
+- scikit-learn
+- Matplotlib (for visualizations)
 
 ## Usage
 
